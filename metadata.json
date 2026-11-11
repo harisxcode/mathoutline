@@ -1,0 +1,6 @@
+{
+  "name": "Rational Realm: Integer & Rational Numbers Hub",
+  "description": "Interactive math learning hub for C2M2T1: Adding & Subtracting Rational Numbers with games (Orbit Integers, Mystery Picture, Rags to Riches, Jeopardy, Escape Room), flashcards, visual manipulatives, and lesson guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
